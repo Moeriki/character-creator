@@ -5,7 +5,8 @@ body,
 }
 
 body {
-  background-color: hsl(180deg, 25%, 92%);
+  background-image: linear-gradient(to bottom, hsl(180 25% 92%) 50%, hsl(180 25% 85%) 50%);
+  background-attachment: fixed;
   margin: 0;
 }
 
